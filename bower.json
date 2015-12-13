@@ -1,0 +1,23 @@
+{
+  "name": "habr",
+  "authors": [
+    "NikolayBorovenskiy <nikolay.borovenskiy@gmail.com>"
+  ],
+  "description": "first build using Bower",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
